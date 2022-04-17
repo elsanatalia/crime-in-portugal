@@ -1,2 +1,3 @@
-# exper_crime
-visualization of crime stats
+# Deploying your Dash app online
+
+Enjoy at https://dashexample.herokuapp.com/
